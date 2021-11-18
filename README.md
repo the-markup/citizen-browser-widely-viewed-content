@@ -2,7 +2,7 @@
 This repository contains data from the story "[Facebook Isn’t Telling You How Popular Right-Wing Content Is on the Platform](https://themarkup.org/citizen-browser/2021/11/18/facebook-isnt-telling-you-how-popular-right-wing-content-is-on-the-platform)" from from our series, [Citizen Browser](https://themarkup.org/citizen-browser/). 
 
 The calculations underlying the article are detailed in our methodology, "[How We Investigated Facebook's Most Popular Content](https://themarkup.org/show-your-work/2021/11/18/how-we-investigated-facebooks-most-popular-content
-)."
+)." The full analysis behind these calculations is provided in a [separate repository](https://github.com/the-markup/facebook-report-verification).
 
 Citizen Browser construction and methodology is described in "[How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)."
 
